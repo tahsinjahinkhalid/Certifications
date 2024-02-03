@@ -1,2 +1,3 @@
 # Certifications
-A repository containing a Pages Markdown file to showcasing all my earned certifications.
+
+Hello, my name is Tahsin Jahin Khalid and this page contains my earned certifications.
